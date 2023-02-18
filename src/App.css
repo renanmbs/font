@@ -1,0 +1,40 @@
+*{    
+  margin: 0;
+  padding: 0;
+}
+
+#banner{
+  background-image: url("./back.jpeg");
+  text-align: center;
+  min-height: 50vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#banner h1{
+  font-size: 4rem;
+  color: white;
+  background-color: rgba(204, 204, 204, 0.6);
+  text-shadow: 1px 1px 1px black;
+}
+
+input{
+  border: solid rgba(0, 0, 0, 0.6);
+  text-align: center;
+  background-color: rgb(255, 255, 254);
+}
+
+#text{
+  width: 40rem;
+}
+
+#box{
+  display: grid;
+  place-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 15rem;
+  padding:1rem 0;
+}
+
