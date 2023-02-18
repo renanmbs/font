@@ -38,3 +38,9 @@ input{
   padding:1rem 0;
 }
 
+@media screen and (max-width: 660px){
+  #text{
+    width: 18rem;
+  }
+  
+}
