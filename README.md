@@ -1,3 +1,16 @@
+<h1>Font Tester</h1>
+<p>This website was created using React, with the intention to practice the useState hook and to use it for personal UI/UX needs</p>
+
+<h2>Usability:</h2>
+<ul>
+  <li>Test font sizes to make sure there is no overflow</li>
+  <li>Change the color of the text </li>
+  <li>Input the text desired to check the font size and font color </li>
+</ul>
+
+<a href="https://capable-sorbet-b71ea3.netlify.app/">Check Live Project</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# font
