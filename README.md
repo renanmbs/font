@@ -1,5 +1,5 @@
 <h1>Font Tester</h1>
-<p>This website was created using React, with the intention to practice the useState hook</p>
+<p>This website was created using React, with the intention to practice the useState hook and to use it for personal UI/UX needs</p>
 
 <h2>Usability:</h2>
 <ul>
