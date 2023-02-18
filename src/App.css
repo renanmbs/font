@@ -42,5 +42,13 @@ input{
   #text{
     width: 18rem;
   }
+
+  #banner{
+    min-height: 100vw;
+  }
+
+  #banner h1{
+    text-shadow: 2px 2px 2px black;
+  }
   
 }
