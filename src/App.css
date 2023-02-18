@@ -6,7 +6,7 @@
 #banner{
   background-image: url("./back.jpeg");
   text-align: center;
-  min-height: 50vw;
+  min-height: 100vw;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -41,10 +41,6 @@ input{
 @media screen and (max-width: 660px){
   #text{
     width: 18rem;
-  }
-
-  #banner{
-    height: 100vw;
   }
 
   #banner h1{
